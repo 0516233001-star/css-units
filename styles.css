@@ -1,0 +1,28 @@
+body {
+    background-color: midnightblue;
+}
+
+.header {
+    background-color: black;
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color: white;
+    font-size: 2em;
+}
+
+.header a {
+    color: red;
+    font-size: 0.8em;
+}
+
+.gallery {
+    background-color: hotpink;
+}
+
+.gallery img {
+    width: 25%;
+    margin: 2%;
+}
